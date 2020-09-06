@@ -1,0 +1,16 @@
+.post-container {
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.single-post {
+    border-bottom: 1px solid gray !important;
+    margin-bottom: 20px !important;
+}
+.post-brief {
+    display: flex;
+    justify-content: space-between;
+}
